@@ -1,0 +1,11 @@
+cff-version: 0.0.1
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Andrade Teixeira
+    given-names: Vitor Gabriel
+  - family-names: Souza Ardissone
+    given-names: Ricardo Luis
+title: "Ensaios usando Aprendizagem de Máquina para navegação cognitiva simples"
+version: 1.0.0
+date-released: 2022-11-07
+url: "https://github.com/VitorAndTxr/si_t2-2022"
